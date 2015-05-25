@@ -1,0 +1,1 @@
+Some tasks from the book "Head First Java".
