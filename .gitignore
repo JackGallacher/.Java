@@ -57,3 +57,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/DotComBust/nbproject/private/
+/DotComBust/build/
