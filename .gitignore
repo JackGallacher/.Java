@@ -59,3 +59,5 @@ $RECYCLE.BIN/
 *.lnk
 /DotComBust/nbproject/private/
 /DotComBust/build/
+/Inheritance and Polymorphism/nbproject/private/
+/Inheritance and Polymorphism/build/
