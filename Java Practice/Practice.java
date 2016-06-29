@@ -38,7 +38,9 @@ class Program
 		System.out.println("Enter second number");
 		SecondInt = Scan.nextInt();
 		
-		System.out.format("%s + %s = %s", FirstInt, SecondInt, MyCalculator.Add(FirstInt, SecondInt));
+		System.out.format("%s + %s = %s", FirstInt, SecondInt, MyCalculator.Add(FirstInt, SecondInt));		
+		System.out.println(Double.toString(MyCalculator.Add(23.8, 17.9)));
+		
 		Scan.close();
 		
 		System.out.println("\n" + Integer.toString(FirstInt) + " " + Integer.toString(SecondInt));//Converts int to string and concatinates varaibles into strings.
@@ -54,12 +56,22 @@ class Program
 //Class example
 class Calculator
 {
+	//Method Overloading example.
 	int Add(int x, int y)
 	{
+		System.out.println("\nThis returns and int plus an int.");
 		return x + y;
 	}
+	double Add(double x, double y)
+	{
+		System.out.println("\nThis returns and double plus an double.");
+		return x + y;
+	}
+	
+	
 	int Subtract(int x, int y)
 	{
+
 		return x - y;
 	}	
 	int Multiply(int x, int y)
@@ -130,10 +142,6 @@ class MediaControls implements Remote
 	}
 }
 
-
-
-//Method overloading example.
-//Input/Output example
 
 
 

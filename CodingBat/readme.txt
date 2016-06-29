@@ -1,0 +1,1 @@
+Solutions for problems given by CodingBat.com
