@@ -43,6 +43,17 @@ class Warmup1
 		Tasks.PosNeg(1, -1, false);//true
 		Tasks.PosNeg(-1, 1, false);//true
 		Tasks.PosNeg(-4, -5, true);//true
+		
+		//9
+		System.out.println(Tasks.NotString("Candy"));//Not Candy
+		System.out.println(Tasks.NotString("X"));//Not X
+		System.out.println(Tasks.NotString("Not Bad"));//Not Bad	
+		
+		//10
+		Tasks.MissingChar("Kitten", 1);//Ktten
+		Tasks.MissingChar("Kitten", 0);//itten
+		Tasks.MissingChar("Kitten", 4);//Kittn
+		
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -132,15 +143,25 @@ class Warmup1
 	}
 	String NotString(String Str)
 	{
-		if(Str.equals("not " + Str))
-		{
-			return Str;
-		}
-		else
-		{
-			return "not " + Str;
-		}
-
+	  if(Str.length() >= 3 && Str.substring(0,3).equals("not"))
+	  {
+	    return Str;
+	  }
+	  return "Not " + Str;
+	}
+	String MissingChar(String Str, int N)
+	{
+		String Front = Str.substring(0, N)//Gets the substring from the first letter of the word to the letter before the one we want to exclude.
+		String Back = Str.substring(N + 1, Str.length());//N + 1 to start from the letter after the N letter as substring start is inclusive.
+		return Front + Back;		
+	}
+	String FrontBack(String Str)
+	{
+		String Front = Str.substring(0);
+		String Back = Str.substring(Str.length());
+		
+		Str.substring(0).equals(Back);
+		Str.substring(Str.length()) = Front;		
 	}
 
 
