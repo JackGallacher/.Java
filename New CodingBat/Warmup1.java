@@ -54,6 +54,15 @@ class Warmup1
 		Tasks.MissingChar("Kitten", 0);//itten
 		Tasks.MissingChar("Kitten", 4);//Kittn
 		
+		//10 
+		Tasks.FrontBack("code");//eodc
+		Tasks.FrontBack("a");//a
+		Tasks.FrontBack("ab");//ba
+		
+		//11
+		Tasks.Front3("Java");//JavaJavaJava
+		Tasks.Front3("Chocolate");//ChoChoCho
+		Tasks.Front3("abc");//abcabcabc
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -157,11 +166,26 @@ class Warmup1
 	}
 	String FrontBack(String Str)
 	{
-		String Front = Str.substring(0);
-		String Back = Str.substring(Str.length());
+	  if(Str.length() > 1)
+	  {
+		  String Mid = Str.substring(1, Str.length() - 1);//Gets a string from the second character of the string and the last character - 1 in the string.
+		  
+		  char Start = Str.charAt(0);//Gets a character at a specific place in a string.
+		  char End = Str.charAt(Str.length() - 1);
+		  
+		  return End + Mid + Start;
+	  }
+	  return Str;
+	}
+	String Front3(String Str)
+	{		
+		if(Str.length() < 3)
+		{
+			return Str + Str + Str;
+		}
 		
-		Str.substring(0).equals(Back);
-		Str.substring(Str.length()) = Front;		
+		String FrontThree = Str.substring(0, 3);
+		return FrontThree + FrontThree + FrontThree;	
 	}
 
 
