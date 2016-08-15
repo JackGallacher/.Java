@@ -50,19 +50,36 @@ class Warmup1
 		System.out.println(Tasks.NotString("Not Bad"));//Not Bad	
 		
 		//10
-		Tasks.MissingChar("Kitten", 1);//Ktten
-		Tasks.MissingChar("Kitten", 0);//itten
-		Tasks.MissingChar("Kitten", 4);//Kittn
-		
-		//10 
-		Tasks.FrontBack("code");//eodc
-		Tasks.FrontBack("a");//a
-		Tasks.FrontBack("ab");//ba
-		
+		System.out.println(Tasks.MissingChar("Kitten", 1));
+		System.out.println(Tasks.MissingChar("Kitten", 0));
+		System.out.println(Tasks.MissingChar("Kitten", 4));
+
 		//11
-		Tasks.Front3("Java");//JavaJavaJava
-		Tasks.Front3("Chocolate");//ChoChoCho
-		Tasks.Front3("abc");//abcabcabc
+		System.out.println(Tasks.FrontBack("code"));//eodc
+		System.out.println(Tasks.FrontBack("a"));//a
+		System.out.println(Tasks.FrontBack("ab"));//ba
+
+		
+		//12
+		System.out.println(Tasks.Front3("Java"));//JavaJavaJava
+		System.out.println(Tasks.Front3("Chocolate"));//ChoChoCho
+		System.out.println(Tasks.Front3("abc"));//abcabcabc
+		
+		//13
+		System.out.println(Tasks.BackAround("cat"));//tcatt
+		System.out.println(Tasks.BackAround("Hello"));//oHelloo
+		System.out.println(Tasks.BackAround("a"));//aaa
+		
+		//14
+		Tasks.Or35(3);//true
+		Tasks.Or35(10);//true
+		Tasks.Or35(8);//false
+		
+		//15
+		System.out.println(Tasks.Front22("kitten"));//kikittenki
+		System.out.println(Tasks.Front22("Ha"));//HaHaHa
+		System.out.println(Tasks.Front22("abc"));//ababcab
+
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -160,7 +177,7 @@ class Warmup1
 	}
 	String MissingChar(String Str, int N)
 	{
-		String Front = Str.substring(0, N)//Gets the substring from the first letter of the word to the letter before the one we want to exclude.
+		String Front = Str.substring(0, N);//Gets the substring from the first letter of the word to the letter before the one we want to exclude.
 		String Back = Str.substring(N + 1, Str.length());//N + 1 to start from the letter after the N letter as substring start is inclusive.
 		return Front + Back;		
 	}
@@ -187,6 +204,34 @@ class Warmup1
 		String FrontThree = Str.substring(0, 3);
 		return FrontThree + FrontThree + FrontThree;	
 	}
+	String BackAround(String Str)
+	{
+		String Last = Str.substring(Str.length() - 1);
+		return Last + Str + Last;
+	}
+	boolean Or35(int N)
+	{
+		if(N % 3 == 0 || N % 5 == 0)
+		{
+			System.out.println(N + " is a multiple of 3 or 5");
+			return true;
+		}
+		System.out.println(N + " is not a multiple of 3 or 5");
+		return false;
+	}
+	String Front22(String Str)
+	{
+		if(Str.length() <= 2)
+		{
+			return Str + Str + Str;
+		}
+		
+		String Front = Str.substring(0, 2);
+		return Front + Str + Front;		
+	}
+	
+	
+		
 
 
 
