@@ -79,6 +79,33 @@ class Warmup1
 		System.out.println(Tasks.Front22("kitten"));//kikittenki
 		System.out.println(Tasks.Front22("Ha"));//HaHaHa
 		System.out.println(Tasks.Front22("abc"));//ababcab
+		
+		//16
+		Tasks.StartHi("hi there");//true
+		Tasks.StartHi("hi");//true
+		Tasks.StartHi("hello hi");//false
+		
+		//17
+		Tasks.IcyHot(120, -1);//true
+		Tasks.IcyHot(-1, 120);//true
+		Tasks.IcyHot(2, 120);//false
+		
+		//19
+		Tasks.In1020(12, 99);//true
+		Tasks.In1020(21, 12);//true
+		Tasks.In1020(8, 99);//false
+		
+		//20
+		Tasks.HasTeen(13, 20, 10);//true
+		Tasks.HasTeen(20, 19, 10);//true
+		Tasks.HasTeen(20, 10, 13);//true
+		
+		//21
+		Tasks.LoneTeen(13, 99);//true
+		Tasks.LoneTeen(21, 19);//true
+		Tasks.LoneTeen(13,13);//false
+
+		
 
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
@@ -229,6 +256,72 @@ class Warmup1
 		String Front = Str.substring(0, 2);
 		return Front + Str + Front;		
 	}
+	boolean StartHi(String Str)
+	{
+	  if(Str.length() < 2)
+	  {
+		System.out.println("String does not contain \"hi\" or is less than 2 characters");
+	    return false;
+	  }
+		if(Str.substring(0,2).equals("hi"))
+		{
+			System.out.println("String begins with hi");
+			return true;
+		}
+		System.out.println("String does not contain \"hi\" or is less than 2 characters");		
+		return false;
+	}
+	boolean IcyHot(int Temp1, int Temp2)
+	{
+		if(Temp1 < 0 && Temp2 > 100 || Temp1 > 100 && Temp2 < 0)
+		{
+			System.out.println("One value is less than 0 and the other is more that 100");
+			return true;
+		}
+		System.out.println("One value is not less than 0 and the other is more that 100");
+		return false;
+	}
+	boolean In1020(int A, int B)
+	{
+		if(A >= 10 && A <= 20 || B >= 10 && B <= 20)
+		{
+			System.out.println("Either number is above 10 but below 20");
+			return true;
+		}
+		System.out.println("Neither number is above 10 but below 20");
+		return false;
+	}
+	boolean HasTeen(int A, int B, int C)
+	{
+		if(A >= 13 && A <= 19 || B >= 13 && B <= 19 || C >= 13 && C <= 19)
+		{
+			System.out.println("One of the values is between 13 and 19");
+			return true;
+		}
+		System.out.println("None of the values is between 13 and 19");
+		return false;
+	}
+	boolean LoneTeen(int A, int B)
+	{
+		if(A == B)
+		{
+			System.out.println("Numbers are both teen or both not teen");
+			return false;
+		}
+		if(A >= 13 && A <= 19 && B < 13 || B > 19)
+		{
+			System.out.println("One of the number is a teen");
+			return true;
+		}
+		if(B >= 13 && B <= 19 && A < 13 || A > 19)
+		{
+			System.out.println("One of the number is a teen");
+			return true;
+		}	
+		System.out.println("Numbers are both teen or both not teen");
+		return false;
+	}
+	
 	
 	
 		
