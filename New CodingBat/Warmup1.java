@@ -104,6 +104,11 @@ class Warmup1
 		Tasks.LoneTeen(13, 99);//true
 		Tasks.LoneTeen(21, 19);//true
 		Tasks.LoneTeen(13,13);//false
+		
+		//22
+		System.out.println(Tasks.DelDel("adelbc"));//abc
+		System.out.println(Tasks.DelDel("adelHello"));//aHello
+		System.out.println(Tasks.DelDel("adedbc"));//adedbc
 
 		
 
@@ -320,6 +325,18 @@ class Warmup1
 		}	
 		System.out.println("Numbers are both teen or both not teen");
 		return false;
+	}
+	String DelDel(String Str)
+	{
+	  if(Str.length() < 4)
+	  {
+	    return Str;
+	  }
+		if(Str.substring(1, 4).equals("del"))
+		{
+			return Str.charAt(0) + Str.substring(4, Str.length());
+		}
+		return Str;
 	}
 	
 	
