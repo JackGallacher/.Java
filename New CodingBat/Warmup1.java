@@ -109,8 +109,11 @@ class Warmup1
 		System.out.println(Tasks.DelDel("adelbc"));//abc
 		System.out.println(Tasks.DelDel("adelHello"));//aHello
 		System.out.println(Tasks.DelDel("adedbc"));//adedbc
-
 		
+		//23
+		Tasks.MixStart();
+		Tasks.MixStart();
+		Tasks.MixStart();
 
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
@@ -337,6 +340,19 @@ class Warmup1
 			return Str.charAt(0) + Str.substring(4, Str.length());
 		}
 		return Str;
+	}
+	boolean MixStart(String Str)
+	{
+		if(Str.length() >= 3)
+		{
+			if(Str.substring(1, 3).equals("ix"))
+			{
+				System.out.println("String starts with ix");
+				return true;
+			}
+		}
+		System.out.println("String does not start with ix");
+		return false;
 	}
 	
 	
