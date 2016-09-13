@@ -114,6 +114,9 @@ class Warmup1
 		Tasks.MixStart();
 		Tasks.MixStart();
 		Tasks.MixStart();
+		
+		//24
+		
 
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
@@ -354,7 +357,25 @@ class Warmup1
 		System.out.println("String does not start with ix");
 		return false;
 	}
-	
+	public String StartOz(String Str) 
+	{
+	  String NewString = "";
+	  if(Str.length() >= 1)
+		{
+			if(Str.charAt(0) == 'o')
+			{
+				NewString += "o";
+			}
+		}
+		if(Str.length() >= 2)
+		{
+			if(Str.charAt(1) == 'z')
+			{
+				NewString += "z";
+			}
+		}
+		return NewString;
+	}
 	
 	
 		
