@@ -116,8 +116,15 @@ class Warmup1
 		Tasks.MixStart();
 		
 		//24
+		System.out.println(Tasks.StartOz("ozymandis"))//oz
+		System.out.println(Tasks.StartOz("bzoo"))//z
+		System.out.println(Tasks.StartOz("oxx"))//o
 		
-
+		//25
+		System.out.println(Integer.toString(Tasks.IntMax(1,2,3)))//3
+		System.out.println(Integer.toString(Tasks.IntMax(1,3,2)))//3
+		System.out.println(Integer.toString(Tasks.IntMax(3,2,1)))//3
+		
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -375,6 +382,22 @@ class Warmup1
 			}
 		}
 		return NewString;
+	}
+	public int IntMax(int A, int B, int C)
+	{
+		if(A > B && A > C)
+		{
+			return A;
+		}
+		if(B > A && B > C)
+		{
+			return B;
+		}
+		if(C > B && C > A)
+		{
+			return C;
+		}
+		return 0;
 	}
 	
 	
