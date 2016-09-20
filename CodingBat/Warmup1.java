@@ -125,6 +125,10 @@ class Warmup1
 		System.out.println(Integer.toString(Tasks.IntMax(1,3,2)))//3
 		System.out.println(Integer.toString(Tasks.IntMax(3,2,1)))//3
 		
+		//25
+		System.out.println(Integer.toString(Tasks.Close10(8, 13)));//8
+		System.out.println(Integer.toString(Tasks.Close10(13, 8)));//8
+		System.out.println(Integer.toString(Tasks.Close10(13, 7)));//0		
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -396,6 +400,18 @@ class Warmup1
 		if(C > B && C > A)
 		{
 			return C;
+		}
+		return 0;
+	}
+	public int Close10(int A, int B)
+	{
+		if(Math.abs(A - 10) > Math.abs(B - 10))
+		{
+			return B;
+		}
+		if(Math.abs(A - 10) < Math.abs(B - 10))
+		{
+			return A;
 		}
 		return 0;
 	}
