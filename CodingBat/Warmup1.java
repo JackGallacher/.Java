@@ -129,6 +129,12 @@ class Warmup1
 		System.out.println(Integer.toString(Tasks.Close10(8, 13)));//8
 		System.out.println(Integer.toString(Tasks.Close10(13, 8)));//8
 		System.out.println(Integer.toString(Tasks.Close10(13, 7)));//0		
+		
+		//26
+		Tasks.In3050(30, 31);//true
+		Tasks.In3050(30, 41);//false
+		Tasks.In3050(40, 50);//true
+		
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -415,7 +421,21 @@ class Warmup1
 		}
 		return 0;
 	}
-	
+	public boolean In3050(int A, int B)
+	{
+		if(A >= 30 && A <= 40 && B >= 30 && B <= 40)
+		{
+			System.out.println("False");
+			return true;
+		}
+		if(A >= 40 && A <= 50 && B >= 40 && B <= 50)
+		{
+			System.out.println("False");
+			return true;
+		}
+		System.out.println("False");
+		return false;
+	}
 	
 		
 
