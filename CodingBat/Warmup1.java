@@ -135,6 +135,22 @@ class Warmup1
 		Tasks.In3050(30, 41);//false
 		Tasks.In3050(40, 50);//true
 		
+		//27
+		System.out.println(Integer.toString(Tasks.Max1020(11,19)))//19
+		System.out.println(Integer.toString(Tasks.Max1020(19,11)))//19
+		System.out.println(Integer.toString(Tasks.Max1020(11,9)))//11
+		
+		//28
+		Tasks.StringE("Hello");//true
+		Tasks.StringE("Heello");//true
+		Tasks.StringE("Heelele");//false
+		
+		//29
+		
+		
+		
+		
+		
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -374,7 +390,7 @@ class Warmup1
 		System.out.println("String does not start with ix");
 		return false;
 	}
-	public String StartOz(String Str) 
+	String StartOz(String Str) 
 	{
 	  String NewString = "";
 	  if(Str.length() >= 1)
@@ -393,7 +409,7 @@ class Warmup1
 		}
 		return NewString;
 	}
-	public int IntMax(int A, int B, int C)
+	int IntMax(int A, int B, int C)
 	{
 		if(A > B && A > C)
 		{
@@ -409,7 +425,7 @@ class Warmup1
 		}
 		return 0;
 	}
-	public int Close10(int A, int B)
+	int Close10(int A, int B)
 	{
 		if(Math.abs(A - 10) > Math.abs(B - 10))
 		{
@@ -421,7 +437,7 @@ class Warmup1
 		}
 		return 0;
 	}
-	public boolean In3050(int A, int B)
+	boolean In3050(int A, int B)
 	{
 		if(A >= 30 && A <= 40 && B >= 30 && B <= 40)
 		{
@@ -435,6 +451,50 @@ class Warmup1
 		}
 		System.out.println("False");
 		return false;
+	}
+	int Max1020(int A, int B)
+	{
+	  if(A > B)
+	  {
+	    if(A >= 10 && A <= 20)
+	    {
+	      return A;
+	    }
+	    else if(B >= 10 && B <= 20)
+	    {
+	      return B;
+	    }
+	  }
+	  if(B > A)
+	  {
+	    if(B >= 10 && B <= 20)
+	    {
+	      return B;
+	    }
+	    else if(A >= 10 && A <= 20)
+	    {
+	      return A;
+	    }
+	  }
+		return 0;
+	}
+	boolean StringE(String Str)
+	{
+		int ENumber = 0;	
+		for(int i = 0; i < Str.length(); i++)
+		{
+			if(Str.charAt(i) == 'e')
+			{
+				ENumber++;
+			}
+		}
+		if(ENumber >= 1 && ENumber <= 3)
+		{
+			System.out.println("True");
+			return true;
+		}
+		System.out.println("False");
+		return false;		
 	}
 	
 		
