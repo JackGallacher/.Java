@@ -146,9 +146,9 @@ class Warmup1
 		Tasks.StringE("Heelele");//false
 		
 		//29
-		
-		
-		
+		Tasks.LastDigit(7,17);//true
+		Tasks.LastDigit(6,17);//false
+		Tasks.LastDigit(3,113);//true
 		
 		
 	}
@@ -495,6 +495,16 @@ class Warmup1
 		}
 		System.out.println("False");
 		return false;		
+	}
+	boolean LastDigit(int A, int B)
+	{
+		if(A % 10 == B % 10)
+		{
+			System.out.println("True");
+			return true;
+		}
+		System.out.println("False");
+		return false;
 	}
 	
 		
