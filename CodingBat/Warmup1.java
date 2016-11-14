@@ -111,19 +111,19 @@ class Warmup1
 		System.out.println(Tasks.DelDel("adedbc"));//adedbc
 		
 		//23
-		Tasks.MixStart();
-		Tasks.MixStart();
-		Tasks.MixStart();
+		Tasks.MixStart("mix snacks");//true
+		Tasks.MixStart("pix snacks");//true
+		Tasks.MixStart("piz snacks");//false
 		
 		//24
-		System.out.println(Tasks.StartOz("ozymandis"))//oz
-		System.out.println(Tasks.StartOz("bzoo"))//z
-		System.out.println(Tasks.StartOz("oxx"))//o
+		System.out.println(Tasks.StartOz("ozymandis"));//oz
+		System.out.println(Tasks.StartOz("bzoo"));//z
+		System.out.println(Tasks.StartOz("oxx"));//o
 		
 		//25
-		System.out.println(Integer.toString(Tasks.IntMax(1,2,3)))//3
-		System.out.println(Integer.toString(Tasks.IntMax(1,3,2)))//3
-		System.out.println(Integer.toString(Tasks.IntMax(3,2,1)))//3
+		System.out.println(Integer.toString(Tasks.IntMax(1,2,3)));//3
+		System.out.println(Integer.toString(Tasks.IntMax(1,3,2)));//3
+		System.out.println(Integer.toString(Tasks.IntMax(3,2,1)));//3
 		
 		//25
 		System.out.println(Integer.toString(Tasks.Close10(8, 13)));//8
@@ -136,9 +136,9 @@ class Warmup1
 		Tasks.In3050(40, 50);//true
 		
 		//27
-		System.out.println(Integer.toString(Tasks.Max1020(11,19)))//19
-		System.out.println(Integer.toString(Tasks.Max1020(19,11)))//19
-		System.out.println(Integer.toString(Tasks.Max1020(11,9)))//11
+		System.out.println(Integer.toString(Tasks.Max1020(11,19)));//19
+		System.out.println(Integer.toString(Tasks.Max1020(19,11)));//19
+		System.out.println(Integer.toString(Tasks.Max1020(11,9)));//11
 		
 		//28
 		Tasks.StringE("Hello");//true
@@ -150,7 +150,15 @@ class Warmup1
 		Tasks.LastDigit(6,17);//false
 		Tasks.LastDigit(3,113);//true
 		
+		//30
+		System.out.println(Tasks.EndUp("Hello"));//HeLLO
+		System.out.println(Tasks.EndUp("hi there"));//hi thERE
+		System.out.println(Tasks.EndUp("hi"));//HI
 		
+		//31
+		System.out.print(Tasks.EveryNth("Miracle", 2));//Mrce
+		System.out.print(Tasks.EveryNth("abcdefg", 2));//aceg
+		System.out.print(Tasks.EveryNth("abcdefg", 3));//adg
 	}
 	boolean SleepIn(boolean Weekday, boolean Vacation)
 	{
@@ -505,6 +513,28 @@ class Warmup1
 		}
 		System.out.println("False");
 		return false;
+	}
+	String EndUp(String Str)
+	{
+		if(Str.length() <= 3)
+		{
+			return Str.toUpperCase();
+		}
+		if(Str.length() > 3)
+		{
+			return Str.substring(0, Str.length() - 3) + Str.substring(Str.length() - 3, Str.length()).toUpperCase();
+		}
+		return Str;
+	}
+	String EveryNth(String Str, int N)
+	{
+		String Result = "";
+		
+		for(int i = 0; i < Str.length(); i += N)//iterates the loop by the value of N up until the size of the string.
+		{
+			Result += Str.charAt(i);//As the loop iterates by N, this adds the every N character.
+		}
+		return Result;		
 	}
 	
 		
