@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Java OCA Exercises/src/system/Program.java"/>
+<listEntry value="/Java OCA Exercises/src/food/Program.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="system.Program"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="food.Program"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Java OCA Exercises"/>
 </launchConfiguration>
