@@ -1,0 +1,9 @@
+package package1;
+import static java.lang.System.out;
+public class Animal 
+{
+	public void bark()
+	{
+		out.println("Woof!");
+	}
+}

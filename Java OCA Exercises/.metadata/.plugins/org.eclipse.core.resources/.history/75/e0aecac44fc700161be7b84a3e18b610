@@ -1,0 +1,11 @@
+package package2;
+import package1.Animal;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}
