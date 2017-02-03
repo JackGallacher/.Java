@@ -1,7 +1,0 @@
-package otherfood;
-import food.Fruit;
-
-class Apple extends Fruit
-{
-
-}
