@@ -1,0 +1,9 @@
+
+Mar 21, 2017 12:52:05.27 NEW SESSION
+Mar 21, 2017 12:52:05.27 [289360:289496:0321/125205.275:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2017 12:53:04.91 [289360:289496:0321/125304.916:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2017 12:53:21.45 [289360:289496:0321/125321.453:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2017 12:53:37.69 [289360:289496:0321/125337.690:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+
+Mar 21, 2017 12:58:02.82 NEW SESSION
+Mar 21, 2017 12:58:02.82 [295428:295276:0321/125802.822:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106

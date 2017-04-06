@@ -486,4 +486,32 @@
   <uri name="urn:security-role" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.as.catalog_3.2.2.v20161121-2100.jar!/schema/xsd/jboss-ejb-security-role_1_0.xsd"/>
   <uri name="urn:security:1.1" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.as.catalog_3.2.2.v20161121-2100.jar!/schema/xsd/jboss-ejb-security_1_1.xsd"/>
   <uri name="urn:trans-timeout" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.as.catalog_3.2.2.v20161121-2100.jar!/schema/xsd/trans-timeout-1_0.xsd"/>
+  <public publicId="-//Hibernate/Hibernate Mapping DTD 3.0//EN" uri="file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.1.2.v20161114-0807/dtd/hibernate-mapping-3.0.dtd" webURL="http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd"/>
+  <public publicId="-//Hibernate/Hibernate Configuration DTD 3.0//EN" uri="file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.1.2.v20161114-0807/dtd/hibernate-configuration-3.0.dtd" webURL="http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd"/>
+  <public publicId="-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" uri="file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.1.2.v20161114-0807/dtd/hibernate-reverse-engineering-3.0.dtd"/>
+  <uri name="http://jboss.org/schema/weld/beans_1_1.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.cdi.xml_1.8.2.v20160913-1839.jar!/schemas/beans_1_1.xsd"/>
+  <uri name="http://jboss.org/schema/cdi/beans_1_0.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.cdi.xml_1.8.2.v20160913-1839.jar!/schemas/beans.xsd"/>
+  <public publicId="-//Red Hat, Inc.//DTD Meta 1.0//EN" uri="file:/C:/Users/Jack/.p2/pool/plugins/org.jboss.tools.common.model_3.8.2.v20160913-1811/schema/meta.dtd"/>
+  <public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/dtds/facelet-taglib_1_0.dtd"/>
+  <uri name="http://jboss.org/schema/richfaces/cdk/core" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/schemas/cdk-template.xsd"/>
+  <uri name="http://jboss.org/schema/richfaces/cdk/ext" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/schemas/cdk-extensions.xsd"/>
+  <uri name="http://jboss.org/schema/richfaces/cdk/jsf/composite" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/schemas/cdk-composite.xsd"/>
+  <uri name="http://jboss.org/schema/richfaces/cdk/jstl/core" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/schemas/cdk-jstl-core.xsd"/>
+  <uri name="http://jboss.org/schema/richfaces/cdk/xhtml-el" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/schemas/xhtml-el.xsd"/>
+  <uri name="http://java.sun.com/jsf/html" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/html_basic.taglib.xml"/>
+  <uri name="http://xmlns.jcp.org/jsf/html" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/html_basic_22.taglib.xml"/>
+  <uri name="http://java.sun.com/jsf/core" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/facelets_jsf_core.taglib.xml"/>
+  <uri name="http://xmlns.jcp.org/jsf/core" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/facelets_jsf_core_22.taglib.xml"/>
+  <uri name="http://richfaces.org/rich" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/rich.taglib.xml"/>
+  <uri name="http://richfaces.org/a4j" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/a4j.taglib.xml"/>
+  <uri name="http://java.sun.com/jsf/composite" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/composite.taglib.xml"/>
+  <uri name="http://xmlns.jcp.org/jsf/composite" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jsf_3.8.2.v20160921-1352.jar!/taglibs/composite.taglib_22.xml"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/web-facesconfig_1_2.xsd"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/web-facesconfig_2_0.xsd"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/web-facesconfig_2_1.xsd"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/javaee_5.xsd"/>
+  <uri name="javaee_5.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/javaee_5.xsd"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibary_2_0.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/web-facelettaglibrary_2_0.xsd"/>
+  <uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="jar:file:/C:/Eclipse/eclipse/../../Users/Jack/.p2/pool/plugins/org.jboss.tools.jst.web_3.8.2.v20160913-1824.jar!/catalog/web-facelettaglibrary_2_0.xsd"/>
+  <public publicId="-//OASIS//DTD DocBook XML V4.1.2//EN" uri="file:/C:/Users/Jack/.p2/pool/plugins/org.jboss.tools.vpe.docbook_3.8.2.v20160920-1648/dtds/docbookx-4.1.2.dtd"/>
 </catalog>

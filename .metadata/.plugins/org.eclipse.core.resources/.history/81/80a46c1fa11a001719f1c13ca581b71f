@@ -1,0 +1,5 @@
+package org.jboss.examples.ticketmonster.model;
+
+public class Venue {
+
+}

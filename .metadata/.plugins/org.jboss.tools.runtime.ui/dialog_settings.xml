@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="" key="defaultDestinationPath"/>
+	<item value="C:\Eclipse\wildfly-10.1.0.Final" key="lastPath"/>
 	<item value="C:\Users\Jack" key="defaultDialogPath"/>
 	<item value="true" key="deleteOnExit"/>
 	<section name="downloadRuntimeSection">
