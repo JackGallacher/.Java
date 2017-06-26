@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74ebfa46-5010-4306-aa0d-0c58749357ee" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/15/509b7a799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/25/6040d17c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/26/10c4344da11a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3/f045e17c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3e/90b5d17c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4b/1094e17c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5/500c7d799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/51/30be7c799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/56/903854c9a71a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5d/b074d47c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6/60b1d37c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/64/303cd37c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/66/5012e77c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/305fcef6a71a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7c/a05e7b799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7d/d0c2d47c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/81/00d879799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/81/80a46c1fa11a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/87/80ffd37c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/96/e078d27c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/98/a0cb7068a81a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a5/0000bca0a91a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ad/70e97a799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/af/3020556aa11a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b2/705a7d799f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b9/90709e7c9f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ce/204687b0a91a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cf/10b6af1fa31a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d4/c0dd678ca61a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d7/d0ee2cf2a01a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e8/701e4b839f1a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f6/106e7396a61a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fe/f0caa35ea81a001719f1c13ca581b71f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/e4/92/db/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/e4/b9/22/e4/d7/49/b2/29/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/e4/b9/db/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/e4/b9/db/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.indexes/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/.markers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/org.eclipse.egit.core/GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ticket-monster/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/16.tree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.datatools.connectivity.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jpt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.discovery.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.hibernate.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.ide.eclipse.as.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.tools.central.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.tools.openshift.express.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.tools.project.examples.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.tools.runtime.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.datatools.connectivity/ServerProfiles.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.datatools.connectivity/ServerProfiles.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.datatools.connectivity/driverManagerPreferences.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.datatools.connectivity/driverStorage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/JackCinema (1).launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/JackCinema.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Jacks_Cinema.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Program.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Red Hat JBoss EAP 6.3 Runtime (2) Server.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Red Hat JBoss EAP 6.3.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/WildFly 10.x.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ticket-monster (1).launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ticket-monster (2).launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ticket-monster (3).launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ticket-monster.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.prx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/http-cache/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/http-cache/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/_0.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/local-history/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/_0.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/remote-history/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.jboss.tools/server-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.equinox.p2.discovery.compatibility/cache/discovery-11774445" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.equinox.p2.discovery.compatibility/cache/discovery-2100034307" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1009109627.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1020238095.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1125250801.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1162042240.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1165937851.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1276742990.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1280244118.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1293765174.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1350010978.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1363680026.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/141281304.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/141347426.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1449436988.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1476602740.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1479906125.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1480341947.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1492306374.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1554643401.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1572416964.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1658438775.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1669304227.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1678657980.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1681550837.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1708718427.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1722093941.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1739833730.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1763995614.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1772137307.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1797621237.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1808989019.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1852748628.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1878845393.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1883776819.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1915811881.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1951383293.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1955525751.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/196043928.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/196314336.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1992157179.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/199442109.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2018346727.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2089285322.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2222417215.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2259282921.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2292411991.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2360614343.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2399015600.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2429456718.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2458397958.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/246417315.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/246498896.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2499877967.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2509343255.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2531596008.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2539610142.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2556697032.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2570665048.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/260533550.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2606230142.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2632543189.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2675659183.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2698750871.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2706122839.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2721116769.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2725612744.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2844391612.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2860131472.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2892605020.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2920726122.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2923899069.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2934037213.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2951407449.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2961955347.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/300113663.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3036718216.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3155766576.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3174019598.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3191080693.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3261789623.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3271212196.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3289053912.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3301939161.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3306616520.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3320843833.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3372488084.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3388489476.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3394772847.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3400977271.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3405176665.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/341120253.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3415592040.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3426056514.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3446306887.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3450902437.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3513517844.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3517303933.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3556997826.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3590098761.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3618599741.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3627290997.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3635363285.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3657259020.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3674777785.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3772529427.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3779662899.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3870583598.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3890676705.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3920974120.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/392419882.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3932614820.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3945379327.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4015033569.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/404387561.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4065540510.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4080673980.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4139711255.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4168545702.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4200251657.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4216880215.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4247484521.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4251684239.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/428619438.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4294555385.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/453659473.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/496476127.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/503010274.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/51178355.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/522790543.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/52851870.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/547767205.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/554271557.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/554407542.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/567118386.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/612495519.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/631246200.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/670756894.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/690167724.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/733290508.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/752617863.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/761289123.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/809224775.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/827496251.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/841040588.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/872268112.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/888886519.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/934437348.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/944228753.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/981367820.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/5/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/5/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/6/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/6/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/7/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/2/7/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/3/12/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/3/12/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Java OCA Exercises/2016/12/51/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Java OCA Exercises/2016/12/51/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/ticket-monster/2017/4/14/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/ticket-monster/2017/4/14/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/archetypesInfo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_0.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_0_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_1.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_1_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_2.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_2_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_3.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_3_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/_4.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/segments_6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/0c013f2910c01799fe79823ddebc4836/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k_3.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_p.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_q.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_q" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_0.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_0_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_1.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_1_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_2.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_2_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/_3.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/a10a888eddf88e95d53c7321809752e1/segments_5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/_a.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/_a_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/_b.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/_c.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/segments_d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/timestamp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/b6b871e5b2b519d30caccda492487f46/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/ticket-monster.lifecyclemapping" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.jdt/ticket-monster.container" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.jack_8/FP.local.files_0/node.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.jack_8/H.local_16/node.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.jack_8/node.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.ui/.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.browser/browser.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.cheatsheets/.cheatsheet.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.common.project.facet.core/prefs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/199442109.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3379127907.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3714337038.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/390317036.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/4215016516.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/870222021.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/publish/publish1.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/publish/publish2.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.hibernate.eclipse/hibernate-tools.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.42" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.51" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.60" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.70" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.71" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.eap.43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.eap.50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.eap.60" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.eap.61" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.eap.70" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.wildfly.100" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.wildfly.80" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.wildfly.90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/Red_Hat_JBoss_EAP_6.3/filesets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/Red_Hat_JBoss_EAP_6.3/xpaths.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/Red_Hat_JBoss_EAP_6.3_Runtime_(2)_Server/filesets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/Red_Hat_JBoss_EAP_6.3_Runtime_(2)_Server/log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/Red_Hat_JBoss_EAP_6.3_Runtime_(2)_Server/xpaths.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/WildFly_10.1/filesets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/WildFly_10.1/xpaths.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/WildFly_10.x1486585974878/filesets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/WildFly_10.x1486585974878/log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.ide.eclipse.as.core/WildFly_10.x1486585974878/xpaths.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.cdi.core/bean-archives.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/css/jboss-app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/css/overpass-light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/css/overpass-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/css/overpass-thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/css/overpass.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/background_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/background_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/background_img.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/background_img_bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/background_img_bottom.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-addtools.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-addtools.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-community.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-community.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-html5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-hybridmobile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-javaee.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/images/icon-openshift.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/js/main.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/bootstrap-sass-official/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/jquery-highlight/js/jquery.highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/jquery/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/d794065/lib/twbs-pagination/js/jquery.twbsPagination.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/central/loading_2.1.2.v20161122_0108.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1087873226/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1107937782/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1117071442/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1121217055/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1256830039/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1261743706/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1322530544/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/134793042/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1405969148/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1412699026/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1453527553/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1520627357/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1617100456/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/162814671/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/163911272/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1670618932/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/173666108/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1757287703/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1931998179/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1968547429/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/1979750683/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/2049262451/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/2071704110/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/2132345855/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/349095447/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/382258211/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/383592196/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/383650153/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/387190432/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/412051541/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/440992305/images%2Fwizards%2Fnewcordovaprj_wiz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/488021836/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/591582757/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/592924384/images%2Fwizards%2Fjbossforge_icon_16px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/657819875/images%2Fwizards%2Fopenshift-logo-white-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/701418294/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/825653956/images%2Fwizards%2Fhtml5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/877303281/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/926710750/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/943518035/images%2Ffuse_integration_wizard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/994652630/images%2Fwizards%2Fnew_m2_project.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/images/998559881/images%2Fwizards%2Fnewwebprj_wiz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/jboss_buzz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.contributions.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.contributors.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.extraData.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.mainData.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.manager/.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.manager/.fileTable.9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.manager/.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.namespaces.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.orphans.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1490107074999/.rcache/.table.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.contributions.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.contributors.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.extraData.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.mainData.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.manager/.fileTable.7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.manager/.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.manager/.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.namespaces.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.orphans.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/proxyWizards/1491465096376/.rcache/.table.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.central/valid_jboss_buzz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.model/images/default.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/JSFCapabilities.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/JSFVersions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFBlankWithLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFBlankWithLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFBlankWithLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFBlankWithLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFBlankWithLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JavaSource/demo/Messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/pages/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/pages/inputUserName.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JavaSource/demo/Messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/pages/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/pages/inputUserName.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsBlankWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsBlankWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsBlankWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsBlankWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsBlankWithoutLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/JavaSource/demo/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/JavaSource/resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/pages/greeting.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/pages/inputname.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/templates/common.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/JavaSource/demo/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/JavaSource/resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/pages/greeting.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/pages/inputname.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/WebContent/templates/common.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFBlankWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFBlankWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFBlankWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFBlankWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFBlankWithoutLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/JavaSource/demo/Messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/WebContent/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/WebContent/pages/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/WebContent/pages/inputUserName.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/ant/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/JavaSource/resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/WEB-INF/.faces-config.xml.jsfdia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/pages/greeting.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/pages/inputname.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/resources/demo/input.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/WebContent/templates/common.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/JavaSource/resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/.faces-config.xml.jsfdia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/pages/greeting.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/pages/inputname.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/resources/demo/input.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/WebContent/templates/common.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFBlankWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFBlankWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFBlankWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFBlankWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/.preprocessing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/.settings/org.jboss.tools.jst.web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/JavaSource/demo/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/JavaSource/resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/WEB-INF/.faces-config.xml.jsfdia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/pages/greeting.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/pages/inputname.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/resources/demo/input.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/WebContent/templates/common.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jsf-core.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jsf-html.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jsp.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jstl-c.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jstl-fmt.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jstl-sql.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/jstl-x.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/pic/default_img.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/pic/error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/pic/expression.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/pic/pictures.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/prefixmap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-bean-el.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-bean.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-bean1_2.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-html-el.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-html.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-html1_2.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-logic-el.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-logic.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-logic1_2.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-nested.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-nested1_2.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-template.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/struts-template1_2.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsppreview/tagmap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jsf-core.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jsf-html.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jsp.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jstl-c.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jstl-fmt.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jstl-sql.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/jstl-x.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/pic/default_img.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/pic/error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/pic/expression.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/pic/pictures.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/prefixmap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/struts-bean.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/struts-html.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/struts-logic.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/struts-nested.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/struts-template.jpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/tagmap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/vpe/tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/319cc6c15fb84897a8bb26c291c2c6dc19311164-3271248498374842524.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/56c88d31b442856d480b1f68bfe9c63cdaadf749-3812821421709016241.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/56c88d31b442856d480b1f68bfe9c63cdaadf7496988335369680877274.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/669c3a45d3e84b322cb6962ab5b619550e53d6654437848014706935402.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/669c3a45d3e84b322cb6962ab5b619550e53d6656132800248759676528.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/URLTransportCache.cacheIndex.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.foundation.core/ECF_REMOTE_CACHE/ad3e417d20abdea71e86f550c1be41ac94c87225-5327607575631325337.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.jst.web.kb/projects/ticket-monster.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/jbosstools/examples/4/4/project-examples-category-devstudio.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/jbosstools/examples/4/4/project-examples-devstudio.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/jbosstools/examples/4/4/project-examples-shared.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/quickstarts-json/6b9acd894ddf7033b2877ef97e2729f2f83c1b272610139092168207865.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.project.examples/quickstarts-json/URLTransportCache.cacheIndex.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.jboss.tools.runtime.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/tern.eclipse.ide.server.nodejs.embed.win32.win32.x86_64/node-v0.10.22-win32-x86_64/node.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/version.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.cheatsheet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.factorypath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.jpt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/.settings/org.hibernate.eclipse.console.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/controller/MemberController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/data/MemberListProducer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/data/MemberRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/model/Event.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/model/Member.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/model/Venue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/rest/JaxRsActivator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/rest/MemberResourceRESTService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/service/MemberRegistration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/java/org/jboss/examples/ticketmonster/util/Resources.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/resources/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/resources/META-INF/validation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/resources/import.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/WEB-INF/beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/WEB-INF/templates/default.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/WEB-INF/ticket-monster-ds.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/index.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/gfx/asidebkg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/gfx/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/gfx/bkg-blkheader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/gfx/headerbkg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/main/webapp/resources/gfx/rhjb_eap_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/test/java/org/jboss/examples/ticketmonster/test/MemberRegistrationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/test/resources/META-INF/test-persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/test/resources/arquillian.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ticket-monster/src/test/resources/test-ds.xml" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Eclipse/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="AntRunConfiguration" factoryName="Ant Target">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bookstore" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74ebfa46-5010-4306-aa0d-0c58749357ee" name="Default" comment="" />
+      <created>1498508626298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498508626298</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23430322" sideWeight="0.496875" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23430322" sideWeight="0.503125" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25097427" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21590023" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13712242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
