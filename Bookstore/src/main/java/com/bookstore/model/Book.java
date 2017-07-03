@@ -25,8 +25,9 @@ public class Book {
     private String isbn;
 
     @Column(name = "publication_date")
-    @Temporal(TemporalType.DATE)
+    @Temporal(TemporalType.DATE)   
     private Date publicationDate;
+     
     private int numberOfPages;
     private String imageURL;
     private Language language;
