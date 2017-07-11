@@ -9,7 +9,24 @@ import java.util.Date;
 @Entity
 public class Book {
 
-    @Id
+	public Book(){
+		
+	}
+	
+    public Book(String title, String description, Float unitCost, String isbn, Date publicationDate,
+			int numberOfPages, String imageURL, Language language) {
+    	super();
+		this.title = title;
+		this.description = description;
+		this.unitCost = unitCost;
+		this.isbn = isbn;
+		this.publicationDate = publicationDate;
+		this.numberOfPages = numberOfPages;
+		this.imageURL = imageURL;
+		this.language = language;
+	}
+
+	@Id
     @GeneratedValue
     private Long id;
 

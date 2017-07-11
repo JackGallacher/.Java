@@ -43,8 +43,6 @@ public class BookRepository {
 	public Long countAll(){
 		TypedQuery<Long> query = em.createQuery("SELECT COUNT(b) FROM Book b", Long.class);
 		return query.getSingleResult();
-	}
-	
-
+	}	
 }
 
