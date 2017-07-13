@@ -41,7 +41,7 @@ public class BookRepository {
 	
 	@Transactional(Transactional.TxType.SUPPORTS)
 	public Long countAll(){
-		TypedQuery<Long> query = em.createQuery("SELECT COUNT(b) FROM Book b", Long.class);
+		TypedQuery<Long> query = em.createQuery("SELECT count(b) from Book b", Long.class);
 		return query.getSingleResult();
 	}	
 }

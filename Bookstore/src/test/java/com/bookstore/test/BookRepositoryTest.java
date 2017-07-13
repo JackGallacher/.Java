@@ -4,8 +4,10 @@ import static org.junit.Assert.*;
 
 import java.sql.Date;
 
+import javax.inject.Inject;
+
 import org.jboss.arquillian.container.test.api.Deployment;
-import org.jboss.arquillian.core.api.annotation.Inject;
+
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.asset.EmptyAsset;
