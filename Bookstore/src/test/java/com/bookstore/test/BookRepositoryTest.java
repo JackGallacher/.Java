@@ -18,6 +18,9 @@ import org.junit.runner.RunWith;
 import com.bookstore.model.Book;
 import com.bookstore.model.Language;
 import com.bookstore.repository.BookRepository;
+import com.bookstore.util.IsbnGenerator;
+import com.bookstore.util.NumberGenerator;
+import com.bookstore.util.TextUtil;
 
 @RunWith(Arquillian.class)
 public class BookRepositoryTest {
@@ -44,7 +47,9 @@ public class BookRepositoryTest {
 		assertEquals(0, bookRepository.findAll().size());
 		
 		//create a book
-		Book book = new Book("title", "description", 10.0f, "isbn", new Date(12, 12, 12), 500, "imageURL" ,Language.ENGLISH);
+		@SuppressWarnings("deprecation")
+		//added a space into "a title" to check the sanitize function is working from TextUtil in the create function.
+		Book book = new Book("a  title", "description", 10.0f, "isbn", new Date(12, 12, 12), 500, "imageURL" ,Language.ENGLISH);
 		book = bookRepository.create(book);
 		Long bookID = book.getId();
 		
@@ -55,7 +60,8 @@ public class BookRepositoryTest {
 		Book bookFound = bookRepository.find(bookID);	
 		
 		//check the found book
-		assertEquals("title", bookFound.getTitle());
+		assertEquals("a title", bookFound.getTitle());
+		assertTrue(bookFound.getIsbn().startsWith("13"));//checks the isbn starts with 13 and uses the IsbnGenerator class.
 		
 		//test counting books.
 		assertEquals(Long.valueOf(1), bookRepository.countAll());
@@ -74,7 +80,10 @@ public class BookRepositoryTest {
 		return ShrinkWrap.create(JavaArchive.class)
 				.addClass(BookRepository.class)
 				.addClass(Book.class)
-				.addClass(Language.class)
+				.addClass(Language.class) 
+				.addClass(TextUtil.class)
+				.addClass(NumberGenerator.class)
+				.addClass(IsbnGenerator.class)
 				.addAsManifestResource(EmptyAsset.INSTANCE, "beans.xml")
 				.addAsManifestResource("META-INF/test-persistence.xml", "persistence.xml");
 	}

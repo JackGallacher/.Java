@@ -2,6 +2,7 @@ package com.bookstore.repository;
 
 import java.util.List;
 
+import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
@@ -9,6 +10,8 @@ import javax.transaction.Transactional;
 import javax.validation.constraints.NotNull;
 
 import com.bookstore.model.Book;
+import com.bookstore.util.NumberGenerator;
+import com.bookstore.util.TextUtil;
 
 //@Transactional(Transactional.TxType.SUPPORTS)
 //can have this instead of on each function but being explicit here...
@@ -16,6 +19,12 @@ public class BookRepository {
 
 	@PersistenceContext(unitName = "bookStorePU")
 	private EntityManager em;
+	
+	@Inject
+	private TextUtil textUtil;
+	
+	@Inject
+	private NumberGenerator generator;//we inject the interface not the implementation.
 	
 	
 	@Transactional(Transactional.TxType.SUPPORTS)
@@ -25,6 +34,8 @@ public class BookRepository {
 	
 	@Transactional(Transactional.TxType.REQUIRED)
 	public Book create(@NotNull Book book){
+		book.setTitle(textUtil.sanitize(book.getTitle()));//resets the book title with the sanitized version.
+		book.setIsbn(generator.generateNumber());//sets the isbn to the result of the generator function.
 		em.persist(book);
 		return book;
 	}
