@@ -25,6 +25,18 @@ public class BookRepositoryTest {
 	@Inject
 	private BookRepository bookRepository;
 	
+	@Test(expected = Exception.class)
+	public void findBookWithInvalidID() {
+		bookRepository.find(null);
+	}
+	
+	@Test(expected = Exception.class)
+	public void createInvalidBook() {
+		@SuppressWarnings("deprecation")
+		Book book = new Book(null, "description", 10.0f, "isbn", new Date(12, 12, 12), 500, "imageURL" ,Language.ENGLISH);
+		book = bookRepository.create(book);
+	}
+	
 	@Test
 	public void create() throws Exception {
 		//test counting books.
